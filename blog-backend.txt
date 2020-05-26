@@ -1,0 +1,16 @@
+/*
+
+* blog
+
+* backend
+
+* blog/model/blogSchema
+* blog route
+
+* add blog route to server.js
+
+* blog controller
+* try using postman
+
+
+*/
